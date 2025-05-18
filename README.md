@@ -20,4 +20,5 @@ Build dashboards for both instructors and learners with real-time updates.
 Ensure responsive design, cross-device compatibility, and performance optimizationFully functional online learning platform (deployed).
 Source code repository with version history.
 Documentation covering platform features, architecture, and tech used.
+*OUTPUT* ![Image](https://github.com/user-attachments/assets/bca8a67f-e42d-4ae9-a087-a09fe278a0f6)
 
